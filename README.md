@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there! 👋 I'm Muhammed Shameem Saifudeen
 
-<!--
-**ShameemSaifudeen/ShameemSaifudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in MERN Stack development, designing and implementing powerful web applications using MongoDB, Express.js, React, and Node.js. Dedicated to clean code, best practices, and continuous learning.
 
-Here are some ideas to get you started:
+## 🧰 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+- **Database**: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+---
+
+✨ Open to collaborations and exciting projects. Let's create remarkable web experiences together!
